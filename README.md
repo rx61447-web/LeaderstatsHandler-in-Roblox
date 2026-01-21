@@ -1,4 +1,4 @@
-# 📊 領袖統計系統 (Leaderstats Handler)
+# 📊 排行榜統計系統 (Leaderstats Handler)
 
 這是一個用於 Roblox 伺服器端的數據顯示系統。它能自動在玩家列表 (Player List) 中建立自定義欄位，並即時抓取玩家在關聯群組中的「軍銜」或「職位」，提供直觀的身分識別。
 
